@@ -571,6 +571,9 @@ header
 }
 
 @media (max-width: 767px) {
+  .logoWeb{
+    content:url("../images/logoNegro.png");
+  }
   .header-area .main-nav .logo {
     color: #1e1e1e;
   }
