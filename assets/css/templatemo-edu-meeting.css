@@ -571,9 +571,6 @@ header
 }
 
 @media (max-width: 767px) {
-  .logoWeb{
-    content:url("../images/logoNegro.png");
-  }
   .header-area .main-nav .logo {
     color: #1e1e1e;
   }
@@ -1026,7 +1023,7 @@ apply now
 */
 
 section.apply-now {
-  background-image: url(../images/rol-fondo-morado.jpg);
+  background-image: url(../images/apply-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1494,7 +1491,7 @@ upcoming meetings page
 */
 
 section.meetings-page {
-  background-image: url(../images/Fondo.jpg);
+  background-image: url(../images/meetings-page-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
